@@ -1,7 +1,7 @@
 # TP5DPBO2025C2
 
 # Janji
-Saya, Ahmad Izzuddin Azzam, dengan NIM 2301410, mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek dengan penuh tanggung jawab dan kejujuran. Saya tidak melakukan kecurangan sebagaimana yang telah ditentukan. Aamiin.
+Saya, Ahmad Izzuddin Azzam, dengan NIM 2300492, mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek dengan penuh tanggung jawab dan kejujuran. Saya tidak melakukan kecurangan sebagaimana yang telah ditentukan. Aamiin.
 
 # Desain Program
 ![image](https://github.com/user-attachments/assets/0b028e03-46a9-4f6f-91c8-2a3ad383a1f2)
